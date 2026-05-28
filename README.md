@@ -75,7 +75,7 @@ fig.show()
 ```
 
 #### 🖼️ Visualization:
-![Sales by Category](images/SalesCatagory.png)
+![Sales by Category](https://github.com/BhavyaSriDadi/E-commerce-Sales-Analysis/blob/main/Images/SalesCatagory.png)
 
 #### 📊 Insights:
 - Technology contributes the highest (36.4%), making it the most significant revenue driver.
